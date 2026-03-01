@@ -1,0 +1,7 @@
+Portfolio Journal Submission (Link)
+
+Repository link:
+https://github.com/bethlehemnegash-wq/-Bethlehem
+
+Notes:
+- Repo includes my selected C++ project files and an updated README with my reflection responses.
